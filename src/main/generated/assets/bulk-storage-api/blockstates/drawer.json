@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "bulk-storage-api:block/drawer",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "bulk-storage-api:block/drawer"
+    },
+    "facing=south": {
+      "model": "bulk-storage-api:block/drawer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "bulk-storage-api:block/drawer",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "bulk-storage-api:block/drawer_face",
+    "side": "bulk-storage-api:block/drawer_side",
+    "top": "bulk-storage-api:block/drawer_side"
+  }
+}
